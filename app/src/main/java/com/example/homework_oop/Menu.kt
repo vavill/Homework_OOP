@@ -135,7 +135,7 @@ class ConsoleMenu(private val items: List<MenuItem>, private val listOfTv: List<
 
                             7 -> {
                                 println("Уменьшить громкость на: ")
-                                tv.volumeUp(readln().toInt())
+                                tv.volumeDown(readln().toInt())
                             }
                         }
                     }
