@@ -1,4 +1,4 @@
-package com.example.homework_oop
+package com.example.homework_oop.stage1
 
 class TV(
     var brand: String,

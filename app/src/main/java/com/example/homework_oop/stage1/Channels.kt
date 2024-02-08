@@ -1,4 +1,4 @@
-package com.example.homework_oop
+package com.example.homework_oop.stage1
 
 object Channels {
     fun getChannels(numberOfChannels: Int): List<String> = generateChannelList(numberOfChannels)

@@ -1,7 +1,4 @@
-package com.example.homework_oop
-
-import android.view.Menu
-import java.lang.reflect.Modifier
+package com.example.homework_oop.stage1
 
 interface MenuItem {
     val condition: List<String>
